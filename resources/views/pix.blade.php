@@ -8,8 +8,9 @@
     </script>
 </head>
 <body>
-        <a href="/pagamentos/pix/">pix</a>
-        <a href="/pagamentos/mercadopago/">mercadopago</a>
+       
+    @php
+        print_r($obj)
+    @endphp
+  
 </body>
-
-            
